@@ -18,8 +18,10 @@ Pre-requisites:
 <img width="1440" alt="Screen Shot 2021-08-13 at 01 01 22" src="https://user-images.githubusercontent.com/17344044/129311812-d3c34702-e2a8-42e0-9714-81360b00303b.png">
 <img width="1434" alt="Screen Shot 2021-08-13 at 01 02 31" src="https://user-images.githubusercontent.com/17344044/129311816-ec35874f-3c2f-4d87-8a8a-3b035b55ccf8.png">
 
-- Once the build is done, pushed the images to my private repository 
+- Once the build is done, pushed the images to my private repository:
+    
     docker push pranay504/python-webapi
+    
     docker push pranay504/python-authapi
 
 - I have used Docker Swarm for Orchestration - I can implement the same in Kubernetes if need be.. Please let me know.
